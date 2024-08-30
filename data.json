@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Jidapa Muenhan",
+        "email": "opor@gmail.com",
+        "password": "1234",
+        "gender": "Female"
+      }
+    ]
+  }
